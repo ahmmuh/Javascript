@@ -1,0 +1,41 @@
+.container {
+    background-color: whitesmoke;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#my-form #fname, #email {
+    width: 50%;
+    font-size: 13px;
+}
+
+#my-form #email {
+    margin-left: 23px;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 6px;
+}
+
+.users {
+    list-style-type: none;
+}
+
+.users ul li {
+    padding: 10px;
+    font-size: 14px;
+    color: #000;
+}
+
+.error {
+    background-color: red;
+    color: whitesmoke;
+}
+
+.success {
+    background-color: green;
+    color: whitesmoke;
+}
